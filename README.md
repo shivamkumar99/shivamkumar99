@@ -16,7 +16,6 @@
 - 📧 **Email:** shivam995364@gmail.com
 - 🌐 **Portfolio:** [https://shivam-kumar.dev/](https://shivam-kumar.dev/)
 
-(Replace these with your real details)
 
 ---
 
